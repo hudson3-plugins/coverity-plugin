@@ -1,6 +1,6 @@
-Coverity Jenkins Plugin
+Coverity Hudson Plugin
 =======================
 
-This plugin integrates Coverity Connect and Analysis with the Jenkins Continuous Integration Server.
+This plugin integrates Coverity Connect and Analysis with the Hudson Continuous Integration Server.
 
-See https://wiki.jenkins-ci.org/display/JENKINS/Coverity+Plugin for more information.
+See https://wiki.hudson-ci.org/display/HUDSON/Coverity+Plugin for more information.
