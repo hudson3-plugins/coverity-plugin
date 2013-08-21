@@ -17,7 +17,7 @@
      
     <groupId>org.hudsonci.plugins</groupId>
     <artifactId>coverity</artifactId>
-    <version>1.2.8-h-1</version>
+    <version>1.2.8-h-2-SNAPSHOT</version>
     <packaging>hpi</packaging>
     <name>Coverity plugin</name>
     <url>http://wiki.hudson-ci.org/display/HUDSON/Coverity+Plugin</url>
